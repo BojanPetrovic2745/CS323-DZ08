@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1565806181 source:/home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ08-BojanPetrovic2745/main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+	"Krug.h"
+	"Kvadrat.h"
+
+1565732473 source:/home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ08-BojanPetrovic2745/src/Kvadrat.cpp
+	"Kvadrat.h"
+	"Krug.h"
+	<iostream>
+	<math.h>
+
+1565731879 /home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ08-BojanPetrovic2745/include/Kvadrat.h
+	"Krug.h"
+	<iostream>
+
+1565717126 source:/home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ08-BojanPetrovic2745/src/Krug.cpp
+	"Krug.h"
+	<math.h>
+	<iostream>
+
+1565717082 /home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ08-BojanPetrovic2745/include/Krug.h
+
